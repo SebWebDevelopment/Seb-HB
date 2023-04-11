@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sébastien
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
